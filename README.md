@@ -79,6 +79,18 @@ A comprehensive web application for analyzing and predicting employee burnout ra
 - Python 3.8+
 - See `requirements.txt` for all dependencies
 
+## Deployment
+
+### Streamlit Cloud (Recommended)
+
+1. **Sign up for Streamlit Cloud** (free at https://share.streamlit.io/)
+2. **Connect your GitHub account**
+3. **Click "New app"** and select this repository
+4. **Set Main file path**: `app.py`
+5. **Click "Deploy!"**
+
+Your app will be live in minutes! See `DEPLOYMENT.md` for detailed deployment instructions and alternative deployment options.
+
 ## Notes
 
 - The application uses caching to improve performance
